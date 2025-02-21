@@ -9,3 +9,5 @@ R
 "tests/vehicle-registration.test.ts,f/4/f4e856bd7299c94b3b4918f3d899cd5c05d3b627
 K
 contracts/traffic-flow.clar,c/4/c466e47baf3683cde1aeec1cd16ff55e86084b72
+J
+tests/traffic-flow.test.ts,e/9/e908f91e380fb6ac09d228d11a8cfea6712c70ef
