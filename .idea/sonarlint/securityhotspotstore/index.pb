@@ -7,3 +7,5 @@ S
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 R
 "tests/vehicle-registration.test.ts,f/4/f4e856bd7299c94b3b4918f3d899cd5c05d3b627
+K
+contracts/traffic-flow.clar,c/4/c466e47baf3683cde1aeec1cd16ff55e86084b72
